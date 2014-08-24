@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Magic Life Counter</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Magic Life Counter</string>
+    <string name="title_activity_display_about">About Page</string>
+
+    <color name="myColor">#959595</color>
+    <color name="white">#ffffff</color>
+
+    <string name="p1HealthText">20</string>
+    <string name="p2HealthText">20</string>
+    <string name="add_5_health">+5</string>
+    <string name="minus_5_health">-5</string>
+    <string name="add_1_health">+1</string>
+    <string name="minus_1_health">-1</string>
+    
+    <string name="about">About</string>
+    <string name="main">Main</string>
+
+</resources>
